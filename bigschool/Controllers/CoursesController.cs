@@ -48,7 +48,7 @@ namespace bigschool.Controllers
             _dbContext.SaveChanges();
 
             return RedirectToAction("Index", "Home");
-            //nopbai
+            //nopbaii
         }
     }
 }
